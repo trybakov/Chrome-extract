@@ -1,5 +1,5 @@
 # Chrome-extract
-Extract chrome saved logins and deliever to a remote endpoint
+Extract chrome saved logins and deliver to a remote endpoint
 
 These scripts were created using the help of the article below
 
